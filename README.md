@@ -18,3 +18,9 @@ Mentor 🚀 : https://github.com/hkproj | https://github.com/hkproj/100-days-of-
 
 ![download](https://github.com/user-attachments/assets/29be93ed-bcca-4e66-96d8-f594477c1206)
 
+## Progress Tracker
+
+| Day | Files & Summaries |
+|-----|-------------------|
+| **day1** | **printAdd.cu**: Print global indices for 1D vector (index calculation).<br>**addition.cu**: GPU vector addition; basics of memory allocation/host-device transfer. |
+
