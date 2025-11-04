@@ -8,6 +8,8 @@ Mentor 🚀 : https://github.com/hkproj | https://github.com/hkproj/100-days-of-
 
 ## Resources
 
+### Video Tutorial
+
 **New to CUDA?** Check out this comprehensive tutorial to get started:
 - [CUDA Programming Course - freeCodeCamp](https://www.youtube.com/watch?v=86FAWCzIe_4)
 
